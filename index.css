@@ -1,0 +1,14 @@
+div{
+        background-color: white;
+
+}
+
+.background{
+    grid-template-rows: 100px;
+}
+
+.main-content{
+    background-color: green;
+    grid-template-columns: 100px;
+
+}
